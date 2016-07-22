@@ -5,7 +5,7 @@ import (
 	"github.com/xyproto/p5r"
 	"unicode/utf8"
 
-	"github.com/robertkrimen/otto/parser"
+	"github.com/titpetric/otto/parser"
 )
 
 type _regExpObject struct {

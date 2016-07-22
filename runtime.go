@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/robertkrimen/otto/ast"
-	"github.com/robertkrimen/otto/parser"
+	"github.com/titpetric/otto/ast"
+	"github.com/titpetric/otto/parser"
 )
 
 type _global struct {

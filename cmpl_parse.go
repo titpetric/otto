@@ -3,9 +3,9 @@ package otto
 import (
 	"fmt"
 
-	"github.com/robertkrimen/otto/ast"
-	"github.com/robertkrimen/otto/file"
-	"github.com/robertkrimen/otto/token"
+	"github.com/titpetric/otto/ast"
+	"github.com/titpetric/otto/file"
+	"github.com/titpetric/otto/token"
 	"github.com/xyproto/p5r"
 )
 

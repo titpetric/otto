@@ -1,7 +1,7 @@
 package otto
 
 import (
-	"github.com/robertkrimen/otto/terst"
+	"github.com/titpetric/otto/terst"
 	"errors"
 	"strings"
 	"testing"
